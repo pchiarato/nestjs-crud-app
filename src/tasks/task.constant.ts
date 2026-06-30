@@ -1,0 +1,4 @@
+export enum TaskConstant {
+  TASK_REPOSITORY = 'TASK_REPOSITORY',
+  DATA_SOURCE = 'DATA_SOURCE',
+}
